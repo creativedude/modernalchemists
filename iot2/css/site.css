@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+/*.header{
+	background: linear-gradient(to bottom, #f4b437,#e69c14);
+	height:50px;
+	position: fixed;
+}*/
+.slide-container {
+  display: flex;
+  flex-direction: column; }
+
+.item-slide {
+  background: linear-gradient(to bottom, #f4b437, #e69c14);
+  width: 100%;
+  height: 100%;
+  color: white; }
+  .item-slide h4 {
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center; }
+  .item-slide h3 {
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center; }
+  .item-slide p {
+    font-size: 2em;
+    text-align: center; }
+
+.code-block {
+  margin-left: 15%;
+  margin-right: 15%; }
+
+.item-slide-alt {
+  background: linear-gradient(to bottom, white, #ede8e8);
+  width: 100%;
+  height: 100%;
+  color: #f4b437; }
+  .item-slide-alt h4 {
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center; }
+  .item-slide-alt h3 {
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center; }
+  .item-slide-alt p {
+    font-size: 2em;
+    text-align: center; }
+
+.flex {
+  display: flex; }
+
+.download-link {
+  font-style: italic;
+  font-size: 20px; }
+
+.sub-text {
+  font-size: 20px; }
+
+.RestDiagram {
+  margin-left: 15%;
+  margin-right: 15%; }
+
+//new
+
